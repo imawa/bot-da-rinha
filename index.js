@@ -277,20 +277,20 @@ function avancarTurno() {
 }
 
 function comandoStats(msg, jogador) {
-    if (msg.content === `${prefixo}s`) {
+    if (msg.content === `${config.prefixo}s`) {
         let embed = new MessageEmbed()
             .setColor('#f7a000')
             .setDescription(`Informações do jogador`)
             .addField('\u200B', `<@${jogador.usuario.id}>`, false)
             .addField('HP', `${(Math.round(jogador.hp * 100) / 100)}/${(Math.round(jogador.hpTotal * 100) / 100)}`, true)
-            .addField(`ATAQUE (${prefixo}atk)`, `${jogador.atk}`, true)
-            .addField(`DEFESA (${prefixo}def)`, `${jogador.def}`, true)
+            .addField(`ATAQUE (${config.prefixo}atk)`, `${jogador.atk}`, true)
+            .addField(`DEFESA (${config.prefixo}def)`, `${jogador.def}`, true)
             .addField('\u200B', 'Seu inventário', true);
 
         // Poções
-        if (jogador.pocaoPequena > 0) embed.addField(`Poção pequena (+3 HP, ${prefixo}pp)`, `x${jogador.pocaoPequena}`, true);
-        if (jogador.pocaoMedia > 0) embed.addField(`Poção média (+8 HP, ${prefixo}pm)`, `x${jogador.pocaoMedia}`, true);
-        if (jogador.pocaoGrande > 0) embed.addField(`Poção grande (+18 HP, ${prefixo}pg)`, `x${jogador.pocaoGrande}`, true);
+        if (jogador.pocaoPequena > 0) embed.addField(`Poção pequena (+3 HP, ${config.prefixo}pp)`, `x${jogador.pocaoPequena}`, true);
+        if (jogador.pocaoMedia > 0) embed.addField(`Poção média (+8 HP, ${config.prefixo}pm)`, `x${jogador.pocaoMedia}`, true);
+        if (jogador.pocaoGrande > 0) embed.addField(`Poção grande (+18 HP, ${config.prefixo}pg)`, `x${jogador.pocaoGrande}`, true);
 
         // Benções
         if (bencoes.cinzas === jogador.usuario.id) embed.addField('Bênção das cinzas', `Ao morrer, o jogador revive uma vez a partir de suas cinzas.`, true);
@@ -298,7 +298,7 @@ function comandoStats(msg, jogador) {
         if (bencoes.escudo === jogador.usuario.id) embed.addField('Bênção do escudo', `Os ataques recebidos terão 50% a mais da defesa atual absorvida.`, true);
         if (bencoes.sangue === jogador.usuario.id) embed.addField('Bênção do sangue', `A cada turno, o HP é regenerado o equivalente a 10% de todas as poções no inventário.`, true);
         if (bencoes.morte === jogador.usuario.id) embed.addField('Bênção da morte', `20% do dano passa a ser aplicado no HP máximo dos oponentes.`, true);
-        if (bencoes.aco === jogador.usuario.id) embed.addField(`Bênção do aço (${prefixo}ba)`, `O jogador fica imune a qualquer tipo de dano durante 5 rodadas após ativada.`, true);
+        if (bencoes.aco === jogador.usuario.id) embed.addField(`Bênção do aço (${config.prefixo}ba)`, `O jogador fica imune a qualquer tipo de dano durante 5 rodadas após ativada.`, true);
 
         enviarMensagem(embed, jogador.canal);
     }
