@@ -54,3 +54,10 @@ A cada 10 turnos de batalha, tem início outra vez a fase de perguntas.
 ***Outras informações***:
 - !s: exibe seus status
 - !espectar: confere o cargo Espectador, permitindo que você veja a partida em progresso
+
+## Questões
+
+As questões vão em ./questoes/. Você pode editar os arquivos atuais para personalizar as questões:
+- Nos arquivos disponibilizados, toda questão tem 4 alternativas, mas também é posível adicionar questões com um número diferente de alternativas.
+- A resposta é o número da alternativa correta na array, isto é, 0 define a primeira alternativa como a correta.
+- A dificuldade define o tempo de resposta da questão. 1 = 60 segundos, 2 = 120 segundos e 3 = 180 segundos.
