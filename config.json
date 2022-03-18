@@ -1,0 +1,19 @@
+{
+    "token": "token-aqui",
+    "prefixo": "!",
+    "primeiraInicializacao": true,
+    "idServidor": "x",
+    "idCanalRegras": "x",
+    "idCanalSalao": "x",
+    "idCanalLoja": "x",
+    "idCanalTemplo": "x",
+    "idCanalJogador1": "x",
+    "idCanalJogador2": "x",
+    "idCanalJogador3": "x",
+    "idCargoJogador1": "x",
+    "idCargoJogador2": "x",
+    "idCargoJogador3": "x",
+    "idCargoEspectador": "x",
+    "tempoApagarMensagem": 120000,
+    "imagemFooterMensagem": "https://fabricio-duarte.neocities.org/img/amaldicoado.jpg"
+}

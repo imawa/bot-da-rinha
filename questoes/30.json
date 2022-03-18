@@ -1,0 +1,13 @@
+{
+    "id": 30,
+    "questao": "No contexto da UML, considere a afirmativa a seguir: “um documento narrativo que descreve a sequência de eventos de um ator que usa um sistema para completar um processo”. Assinale a opção que indica o tipo de diagrama ao qual essa descrição melhor se adéqua.",
+    "alternativas": [
+        "Atividade.",
+        "Caso de uso.",
+        "Classe.",
+        "Objetos."
+    ],
+    "resposta": "1",
+    "dificuldade": "2",
+    "imagem": ""
+}

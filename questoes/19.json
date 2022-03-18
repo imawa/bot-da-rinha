@@ -1,0 +1,13 @@
+{
+    "id": 19,
+    "questao": "Ao iniciar a modelagem de um software que será construído sob o paradigma da orientação a objetos, o Analista de Sistemas decidiu utilizar a UML (Unified Modeling Language) para representar a estrutura do software. \nQual dos seguintes diagramas será escrito pelo Analista para representar a estrutura (classes, atributos e métodos) e as relações entre as classes que irão compor o software?",
+    "alternativas": [
+        "Diagrama de comunicação.",
+        "Diagrama de sequência.",
+        "Diagrama de classes.",
+        "Diagrama de estados."
+    ],
+    "resposta": "2",
+    "dificuldade": "1",
+    "imagem": ""
+}

@@ -1,0 +1,13 @@
+{
+    "id": 26,
+    "questao": "O UML é uma linguagem",
+    "alternativas": [
+        "de programação amplamente conhecida.",
+        "que permite o registro de modelos orientados a objetos.",
+        "que impede a definição de projetos (design) de baixa qualidade.",
+        "de uso restrito ao processo de manutenção."
+    ],
+    "resposta": "1",
+    "dificuldade": "1",
+    "imagem": ""
+}

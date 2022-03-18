@@ -1,0 +1,13 @@
+{
+    "id": 32,
+    "questao": "De acordo com os criadores da UML, na modelagem da arquitetura de um sistema, a visão que abrange as classes, interfaces e colaborações que formam o vocabulário do problema e de sua solução é a de",
+    "alternativas": [
+        "caso de uso.",
+        "implementação.",
+        "interação.",
+        "projeto."
+    ],
+    "resposta": "3",
+    "dificuldade": "2",
+    "imagem": ""
+}

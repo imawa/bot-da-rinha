@@ -1,0 +1,13 @@
+{
+    "id": 25,
+    "questao": "Sobre casos de uso, é correto afirmar que:",
+    "alternativas": [
+        "facilita a identificação dos requisitos não funcionais do projeto.",
+        "é usado para descrever a relação entre as classes do projeto.",
+        "permitem fazer o design antecipado do sistema.",
+        "é usado para capturar requisitos funcionais de um projeto."
+    ],
+    "resposta": "3",
+    "dificuldade": "1",
+    "imagem": ""
+}

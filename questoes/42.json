@@ -1,0 +1,13 @@
+{
+    "id": 42,
+    "questao": "São exemplos de Diagramas UML:",
+    "alternativas": [
+        "Diagrama de Fraquezas, Diagrama de Forças e Diagrama de Ameaças.",
+        "Diagrama de Classe, Diagrama de Caso de Uso e Diagrama de Sequência.",
+        "Diagrama de Ameaças, Diagrama de Impacto e Diagrama de Insumos.",
+        "Diagrama de Problematização, Diagrama de Planejamento e Diagrama Executivo."
+    ],
+    "resposta": "2",
+    "dificuldade": "2",
+    "imagem": ""
+}

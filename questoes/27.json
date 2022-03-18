@@ -1,0 +1,13 @@
+{
+    "id": 27,
+    "questao": "O desenho a seguir representa tipicamente o diagrama UML:",
+    "alternativas": [
+        "Diagrama de objetos.",
+        "Diagrama de Caso de Uso.",
+        "Diagrama de componentes.",
+        "Diagrama de classes."
+    ],
+    "resposta": "1",
+    "dificuldade": "1",
+    "imagem": "https://cdn.discordapp.com/attachments/836295620586897450/839552168880766976/unknown.png"
+}

@@ -1,0 +1,13 @@
+{
+    "id": 41,
+    "questao": "Na linguagem UML, o diagrama que descreve uma determinada interação entre o sistema e seus usuários é o",
+    "alternativas": [
+        "de classes.",
+        "de caso de uso.",
+        "de objetos.",
+        "de componentes."
+    ],
+    "resposta": "2",
+    "dificuldade": "1",
+    "imagem": ""
+}

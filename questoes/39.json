@@ -1,0 +1,13 @@
+{
+    "id": 39,
+    "questao": "Assinale a alternativa que contém somente diagramas previstos na notação UML:",
+    "alternativas": [
+        "Diagrama de classes, diagrama de objetos, diagrama de atividade.",
+        "Diagrama de componentes, diagrama de replicação, diagrama de sequência.",
+        "Diagrama de objetos, diagrama de participação, diagrama de caso de uso",
+        "Diagrama de caso de uso, diagrama de classes, diagrama de replicação."
+    ],
+    "resposta": "1",
+    "dificuldade": "2",
+    "imagem": ""
+}

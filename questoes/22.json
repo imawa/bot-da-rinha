@@ -1,0 +1,13 @@
+{
+    "id": 22,
+    "questao": "Considere o diagrama de classes representado pelas classes Classe1 e Classe2: \n\nAssinale a alternativa que representa a relação entre as classes de acordo com o paradigma de orientação a objetos.",
+    "alternativas": [
+        "Herança.",
+        "Refatoração.",
+        "Acoplamento.",
+        "Coesão."
+    ],
+    "resposta": "0",
+    "dificuldade": "1",
+    "imagem": "https://cdn.discordapp.com/attachments/836295620586897450/839547506299502622/unknown.png"
+}

@@ -1,0 +1,13 @@
+{
+    "id": 18,
+    "questao": "Considere as informações abaixo sobre diagramas UML. \nI - O diagrama de classes modela classes, incluindo seus atributos, operações, relações e associações com outras classes. \nII - O diagrama de classes fornece uma visão estática ou estrutural de um sistema, contudo não mostra a natureza dinâmica das comunicações entre os objetos das classes no diagrama. \nIII - O diagrama de sequência é utilizado para indicar as comunicações dinâmicas entre objetos, durante a execução de uma tarefa, contudo não mostra a ordem temporal na qual as mensagens são enviadas entre os objetos para executar aquela tarefa. \n\nQuais estão corretas?",
+    "alternativas": [
+        "Apenas I.",
+        "Apenas I e II.",
+        "Apenas I e III.",
+        "Apenas II e III."
+    ],
+    "resposta": "1",
+    "dificuldade": "2",
+    "imagem": ""
+}

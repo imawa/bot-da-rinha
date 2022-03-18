@@ -1,0 +1,13 @@
+{
+    "id": 28,
+    "questao": "Analise a figura dada abaixo e assinale a alternativa correta.",
+    "alternativas": [
+        "É uma implementação de tabelas de bancos de dados em UML.",
+        "É uma implementação de um modelo de dados orientado a objetos.",
+        "É uma modelagem de casos de uso da UML para bancos de dados.",
+        "Refere-se ao digrama de classes da UML com herança entre classes."
+    ],
+    "resposta": "3",
+    "dificuldade": "3",
+    "imagem": "https://cdn.discordapp.com/attachments/836295620586897450/839552769827274823/unknown.png"
+}

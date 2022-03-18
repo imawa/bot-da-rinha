@@ -1,0 +1,13 @@
+{
+    "id": 43,
+    "questao": "O diagrama UML que representa o fluxo de tarefas que podem ser executadas pelo sistema ou por um ator é o de:",
+    "alternativas": [
+        "atividades;",
+        "estados;",
+        "componentes;",
+        "casos de uso."
+    ],
+    "resposta": "1",
+    "dificuldade": "1",
+    "imagem": ""
+}

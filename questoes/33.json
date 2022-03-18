@@ -1,0 +1,13 @@
+{
+    "id": 33,
+    "questao": "Em UML o diagrama de...",
+    "alternativas": [
+        "transição de janelas retrata as tecnologias selecionadas para implantação do sistema.",
+        "janelas gerenciais define a abordagem de decisões estratégicas da organização hospedeira do sistema.",
+        "navegação de janelas retrata as rotas expressivas e significativas entre os processadores executores dos objetos.",
+        "layout de janelas define o conteúdo de uma janela a ser apresentado como parte da interface humana de um sistema."
+    ],
+    "resposta": "3",
+    "dificuldade": "3",
+    "imagem": ""
+}

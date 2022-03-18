@@ -1,0 +1,13 @@
+{
+    "id": 20,
+    "questao": "Observe a simbologia utilizada em UML para fazer a ligação entre a classe A e B.\n\nEste tipo de ligação é conhecido como:",
+    "alternativas": [
+        "Dependência.",
+        "Composição.",
+        "Generalização.",
+        "Agregação."
+    ],
+    "resposta": "1",
+    "dificuldade": "1",
+    "imagem": "https://cdn.discordapp.com/attachments/836295620586897450/839541783553769482/unknown.png"
+}

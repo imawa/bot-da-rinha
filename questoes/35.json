@@ -1,0 +1,13 @@
+{
+    "id": 35,
+    "questao": "Agregação que modela um relacionamento \"todo-parte\" em UML é um tipo de",
+    "alternativas": [
+        "dependência.",
+        "realização.",
+        "associação.",
+        "generalização."
+    ],
+    "resposta": "2",
+    "dificuldade": "1",
+    "imagem": ""
+}

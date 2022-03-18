@@ -1,0 +1,13 @@
+{
+    "id": 23,
+    "questao": "Tendo papel de destaque entre os diagramas da UML (Unified Modeling Language), o diagrama de atividades é responsável pela modelagem dos aspectos dinâmicos de um sistema. O que é representado em um diagrama de atividades?",
+    "alternativas": [
+        "Classes, métodos e atributos.",
+        "Pacotes.",
+        "Somente atributos.",
+        "Fluxos de controle de uma atividade para outra e etapas sequenciais em processo computacional."
+    ],
+    "resposta": "3",
+    "dificuldade": "1",
+    "imagem": ""
+}

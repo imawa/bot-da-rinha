@@ -1,0 +1,13 @@
+{
+    "id": 36,
+    "questao": "Acerca de UML (Unified Modeling Language), marque a alternativa correta:",
+    "alternativas": [
+        "A Linguagem de Modelagem Unificada (UML) simplifica o complexo processo de análise, projeto e construção de software criando visões do sistema que esta sendo construído.",
+        "A UML, como notação, possui um conjunto de artefatos gráficos, como exemplo Diagrama de Caso de Uso.",
+        "A Linguagem de Modelagem Unificada (UML) é um método de desenvolvimento de sistemas. Uma linguagem de modelagem gráfica para descrever um projeto de software.",
+        "A Linguagem de Modelagem Unificada (UML) é uma linguagem de programação."
+    ],
+    "resposta": "0",
+    "dificuldade": "3",
+    "imagem": ""
+}

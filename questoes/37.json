@@ -1,0 +1,13 @@
+{
+    "id": 37,
+    "questao": "Na UML, uma lista de valores nomeados, utilizada como a faixa de um determinado tipo de atributo, trata-se de",
+    "alternativas": [
+        "multiplicidade.",
+        "enumeração.",
+        "agregação.",
+        "instância."
+    ],
+    "resposta": "1",
+    "dificuldade": "1",
+    "imagem": ""
+}

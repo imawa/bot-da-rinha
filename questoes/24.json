@@ -1,0 +1,13 @@
+{
+    "id": 24,
+    "questao": "Um profissional está usando um recurso de descoberta de requisitos para o desenvolvimento de um novo software, que consiste em mostrar através de um diagrama a interação dos atores com o sistema de software. Os atores podem ser pessoas ou outros sistemas e são representados por bonecos palito. Já as classes de interação são representadas por uma elipse. Linhas fazem a ligação entre os atores e as elipses. Baseado nessa descrição conclui-se que o profissional está utilizando o recurso de:",
+    "alternativas": [
+        "prototipação.",
+        "brainstorm.",
+        "casos de uso.",
+        "encenação."
+    ],
+    "resposta": "2",
+    "dificuldade": "2",
+    "imagem": ""
+}

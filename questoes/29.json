@@ -1,0 +1,13 @@
+{
+    "id": 29,
+    "questao": "Assinale a alternativa que apresenta o diagrama UML que mostra um conjunto de classes e seus relacionamentos.",
+    "alternativas": [
+        "Diagrama de Estados",
+        "Diagrama de Casos de Uso",
+        "Diagrama de Colaboração",
+        "Diagrama de Classes"
+    ],
+    "resposta": "3",
+    "dificuldade": "1",
+    "imagem": ""
+}

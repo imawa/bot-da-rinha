@@ -1,0 +1,13 @@
+{
+    "id": 34,
+    "questao": "As ferramentas de modelagem de análise, que utilizam a notação UML, fornecem capacidade de desenvolver modelos baseados em",
+    "alternativas": [
+        "cenários, classes e dados.",
+        "cenários, classes e objetos.",
+        "classes, fluxos e objetos.",
+        "classes, fluxos e dados."
+    ],
+    "resposta": "1",
+    "dificuldade": "2",
+    "imagem": ""
+}

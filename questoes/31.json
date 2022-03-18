@@ -1,0 +1,13 @@
+{
+    "id": 31,
+    "questao": "Generalização / Especialização é um tipo de relacionamento possível de ser aplicado ao(s) seguinte(s) elemento(s) de modelo na UML:",
+    "alternativas": [
+        "Casos de uso, classes e atores;",
+        "Casos de uso e classes;",
+        "Classes e atores;",
+        "Classes."
+    ],
+    "resposta": "0",
+    "dificuldade": "1",
+    "imagem": ""
+}

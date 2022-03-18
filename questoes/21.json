@@ -1,0 +1,13 @@
+{
+    "id": 21,
+    "questao": "Considere o seguinte diagrama de classes, representado conforme a UML.\n\nA partir desse diagrama de classes, pode-se afirmar que:",
+    "alternativas": [
+        "a classe Veículo é considerada uma subclasse.",
+        "a classe Carga é uma superclasse, e Passeio, uma subclasse.",
+        "a classe Veículo herda os recursos das classes Carga e Passeio.",
+        "as classes Carga e Passeio herdam os recursos da classe Veículo."
+    ],
+    "resposta": "3",
+    "dificuldade": "1",
+    "imagem": "https://cdn.discordapp.com/attachments/836295620586897450/839543693475708948/unknown.png"
+}

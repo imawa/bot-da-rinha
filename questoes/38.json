@@ -1,0 +1,13 @@
+{
+    "id": 38,
+    "questao": "Considere o seguinte diagrama de casos de uso UML: \n\nEm relação à associação existente entre os casos de uso A e B, é correto afirmar que",
+    "alternativas": [
+        "o caso de uso B é uma especialização do caso de uso A.",
+        "o caso de uso B poderá ser chamado a partir de A mediante alguma condição.",
+        "a execução do caso de uso A obrigatoriamente implica na execução do caso de uso B.",
+        "se trata de uma associação de casos de uso do tipo inclusão."
+    ],
+    "resposta": "1",
+    "dificuldade": "3",
+    "imagem": "https://cdn.discordapp.com/attachments/836295620586897450/839560137446129664/unknown.png"
+}

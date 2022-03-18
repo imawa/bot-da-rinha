@@ -1,0 +1,13 @@
+{
+    "id": 40,
+    "questao": "Em diagramas de classe UML, é válido dizer que:",
+    "alternativas": [
+        "Não há como especificar a visibilidade de atributos de classe.",
+        "O uso de restrições a classes e dependências não é válido.",
+        "É possível especificar hierarquias e composições.",
+        "Não pode conter somente classes."
+    ],
+    "resposta": "3",
+    "dificuldade": "1",
+    "imagem": ""
+}
