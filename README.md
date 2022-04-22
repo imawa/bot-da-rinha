@@ -43,7 +43,7 @@
 
 Este é um jogo que testa seu conhecimento acerca de determinado assunto ao mesmo tempo que te coloca para trocar porrada virtual com seus amigos.
 
-Você pode conferir as regras em [REGRAS.md](https://github.com/imawa/bot-da-rinha/blob/main/REGRAS.md)
+Você pode conferir as regras em [REGRAS.md](https://github.com/winterhazel/bot-da-rinha/blob/main/REGRAS.md)
 
 O projeto foi originalmente desenvolvido para um trabalho de Engenharia de Software. Por causa disso, as questões padrões são de conteúdos da disciplina. No entanto, você também pode editar os arquivos para personalizar as perguntas:
 - `id` pode ter qualquer valor
@@ -68,7 +68,7 @@ O projeto foi originalmente desenvolvido para um trabalho de Engenharia de Softw
 
 1. Clone o repositório
    ```sh
-   git clone https://github.com/imawa/bot-da-rinha.git
+   git clone https://github.com/winterhazel/bot-da-rinha.git
    ``` 
 2. Ative o modo desenvolvedor do Discord em `Configurações → Avançado`
 3. Crie um servidor com base [neste modelo](https://discord.new/9tpnWFUVarUq)
@@ -89,7 +89,7 @@ O projeto foi originalmente desenvolvido para um trabalho de Engenharia de Softw
 node index.js
 ```
 
-_Para instruções de como jogar, confira [REGRAS.md](https://github.com/imawa/bot-da-rinha/blob/main/REGRAS.md)_
+_Para instruções de como jogar, confira [REGRAS.md](https://github.com/winterhazel/bot-da-rinha/blob/main/REGRAS.md)_
 
 <p align="right">(<a href="#top">voltar ao topo</a>)</p>
 
@@ -122,7 +122,7 @@ Fabricio Duarte Júnior - fabricio.duarte.jr@gmail.com
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[license-shield]: https://img.shields.io/github/license/imawa/bot-da-rinha.svg?style=for-the-badge
-[license-url]: https://github.com/imawa/bot-da-rinha/blob/main/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/winterhazel/bot-da-rinha.svg?style=for-the-badge
+[license-url]: https://github.com/winterhazel/bot-da-rinha/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/fabricio-duarte-júnior-676601231
